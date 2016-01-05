@@ -1,6 +1,6 @@
 /* Return the value of the first argument plus twice the second
 */
-var aPlus2b = function () {
+var aPlus2b = function (a,b) {
         return a + 2*b;
 }
 
